@@ -1,5 +1,7 @@
 **Diwali Sales Analysis Project**
-Overview
+
+
+*Overview*
 This project involves a comprehensive analysis of Diwali sales data. Using Python and various data visualization and statistical analysis libraries, we aim to uncover trends and insights that can drive better business decisions. The entire analysis was conducted in Jupyter Notebook.
 
 Project Highlights
