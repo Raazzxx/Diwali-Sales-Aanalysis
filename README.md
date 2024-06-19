@@ -6,7 +6,7 @@
 
 This project involves a comprehensive analysis of Diwali sales data. Using Python and various data visualization and statistical analysis libraries, we aim to uncover trends and insights that can drive better business decisions. The entire analysis was conducted in Jupyter Notebook.
 
-***Project Highlights***
+**Project Highlights**
 
 Data Cleaning and Preprocessing: Ensuring the data is ready for analysis by handling missing values, incorrect data types, and other inconsistencies.
 Exploratory Data Analysis (EDA): Investigating the data to find patterns, anomalies, and relationships between variables.
